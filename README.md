@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+yo! So this is for a tutorial, i am currently going through court cases for JMCOIN!
+bye!
